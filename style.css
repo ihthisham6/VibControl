@@ -1,0 +1,29 @@
+/* style.css */
+window {
+     background-color:#C4AF9A ; /* Dark grey */
+    color: #1E1E24;          /* White text for contrast */
+}
+
+button {
+    background-color: #81AE9D;
+    color: #21A179;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: #6a6a6a;
+}
+
+scale {
+    background-color: #C4AF9A;
+    color: #ffffff;
+}
+
+label {
+    color: #1E1E24;
+}
+
+drawingarea {
+    background-color: #1e1e1e; /* Slightly darker for the plot area */
+    border: 1px solid #ffffff;
+}

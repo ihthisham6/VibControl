@@ -1,0 +1,4 @@
+frequency=1.00
+amplitude=1.00
+damping=0.10
+max_time=10.00
